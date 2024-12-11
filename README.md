@@ -62,7 +62,10 @@ Analyze visitor patterns by considering factors like park size, amenities, seaso
   - Store data in **Amazon S3**.  
   - Automate transformations with **AWS Data Pipeline**.  
 
-- **Data Processing & Transformation**  
+- **Data Processing & Transformation**
+  
+![Data Profiling](https://github.com/your-username/your-repository-name/blob/main/Data_profiling.png)
+
   - Use **AWS Glue** for data cleaning and transformation.  
   - Visualize transformations with **AWS Glue DataBrew**.  
 
@@ -95,7 +98,10 @@ Identify causes behind a decline in park visitor numbers and pinpoint issues suc
   - Secure data in **Amazon S3** and manage movement with **AWS Data Pipeline**.  
 
 - **Data Processing & Transformation**  
-  - Clean data using **AWS Glue**.  
+  - Clean data using **AWS Glue**.
+
+![Data Cleaning](https://github.com/your-username/your-repository-name/blob/main/Data_profiling.png)
+
   - Prepare data visually with **AWS Glue DataBrew**.  
 
 - **Data Analysis & Analytics**  
