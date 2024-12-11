@@ -177,7 +177,8 @@ To further explore the methodologies and tools utilized in these projects, refer
 2. **Data Profiling**: Understand data structure and anomalies.  
 3. **Data Cleaning**: Ensure data quality and consistency.  
 4. **Pipeline Design**: Automate data transformation and movement.  
-   *For a detailed guide on implementing descriptive analysis, refer to the full **[CC - Part 1.docx](https://github.com/your-username/your-repository-name/blob/main/path/to/CC%20-%20Part%201.docx)** document.*
+   *For a detailed guide on implementing descriptive analysis, refer to the full **[CC - Part 1.docx]([https://github.com/your-username/your-repository-name/blob/main/path/to/CC%20-%20Part%201.docx](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/CC%20-%20Part%201.docx
+)** document.*
 
 ### **Exploratory Analysis**  
 1. **Data Enriching**: Integrate external data like weather or events.  
@@ -189,7 +190,7 @@ To further explore the methodologies and tools utilized in these projects, refer
 6. **Data Protection**: Secure data with encryption and access controls.  
 7. **Governance**: Establish policies for compliance and accuracy.  
 8. **Observability**: Monitor pipelines to ensure performance.  
-   *For more insights on advanced processes, refer to the **[CC - Part 2.docx](https://github.com/your-username/your-repository-name/blob/main/path/to/CC%20-%20Part%202.docx)** document.*
+   *For more insights on advanced processes, refer to the **[CC - Part 2.docx](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/CC%20-%20Part2.docx)** document.*
 
 ---
 
