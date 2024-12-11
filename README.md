@@ -159,7 +159,9 @@ Prepare raw data for downstream analysis using advanced wrangling techniques.
 ### **Methodology**  
 - **Data Storage & Management**  
   - Store raw data in **Amazon S3**.  
-  - Transform data with **AWS Data Pipeline**.  
+  - Transform data with **AWS Data Pipeline**.
+
+![Data Pipeline](https://github.com/your-username/your-repository-name/blob/main/Data_pipeline.png)
 
 - **Data Processing & Transformation**  
   - Clean and structure data using **AWS Glue**.  
