@@ -181,14 +181,14 @@ To further explore the methodologies and tools utilized in these projects, refer
 
 ### **Exploratory Analysis**  
 1. **Data Enriching**: Integrate external data like weather or events.  
-2. **Profiling and Cleaning**: Refine datasets for deep analysis.  
-3. **Pipeline Design**: Support scalable data exploration.  
+2. **Data Profiling and Cleaning**: Refine datasets for deep analysis.  
+3. **Data Pipeline Design**: Support scalable data exploration.  
 
 ### **CC - Part 2: Advanced Processes**  
 5. **Data Enriching**: Add calculated fields for deeper analysis.  
 6. **Data Protection**: Secure data with encryption and access controls.  
-7. **Governance**: Establish policies for compliance and accuracy.  
-8. **Observability**: Monitor pipelines to ensure performance.  
+7. **Data Governance**: Establish policies for compliance and accuracy.  
+8. **Data Observability**: Monitor pipelines to ensure performance.  
    *For more insights on advanced processes, refer to the **[CC - Part 2.docx](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/CC%20-%20Part2.docx)** document.*
 
 ---
