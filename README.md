@@ -183,7 +183,8 @@ Prepare raw data for downstream analysis using advanced wrangling techniques.
 ## **Additional Resources**  
 To further explore the methodologies and tools utilized in these projects, refer to the following resources:
 
-### **CC - Part 1: Descriptive Analysis**  
+### **CC - Part 1: 
+Descriptive Analysis**  
 1. **Data Ingestion**: Collect raw data from various sources.  
 2. **Data Profiling**: Understand data structure and anomalies.  
 3. **Data Cleaning**: Ensure data quality and consistency.  
@@ -195,7 +196,8 @@ To further explore the methodologies and tools utilized in these projects, refer
 2. **Data Profiling and Cleaning**: Refine datasets for deep analysis.  
 3. **Data Pipeline Design**: Support scalable data exploration.  
 
-### **CC - Part 2: Advanced Processes**  
+### **CC - Part 2: 
+Advanced Processes**  
 5. **Data Enriching**: Add calculated fields for deeper analysis.  
 6. **Data Protection**: Secure data with encryption and access controls.  
 7. **Data Governance**: Establish policies for compliance and accuracy.  
