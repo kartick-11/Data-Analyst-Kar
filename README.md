@@ -64,7 +64,7 @@ Analyze visitor patterns by considering factors like park size, amenities, seaso
 
 - **Data Processing & Transformation**
   
-![Data Profiling](https://github.com/your-username/your-repository-name/blob/main/Data_profiling.png)
+![Data Profiling](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_profiling.png)
 
   - Use **AWS Glue** for data cleaning and transformation.  
   - Visualize transformations with **AWS Glue DataBrew**.  
@@ -100,7 +100,7 @@ Identify causes behind a decline in park visitor numbers and pinpoint issues suc
 - **Data Processing & Transformation**  
   - Clean data using **AWS Glue**.
 
-![Data Cleaning](https://github.com/your-username/your-repository-name/blob/main/Data_profiling.png)
+![Data Cleaning](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_cleaning.png)
 
   - Prepare data visually with **AWS Glue DataBrew**.  
 
@@ -161,7 +161,7 @@ Prepare raw data for downstream analysis using advanced wrangling techniques.
   - Store raw data in **Amazon S3**.  
   - Transform data with **AWS Data Pipeline**.
 
-![Data Pipeline](https://github.com/your-username/your-repository-name/blob/main/Data_pipeline.png)
+![Data Pipeline](https://github.com/kartick-11/Data-Analyst-Kar/blob/main/Data_pipeline.png)
 
 - **Data Processing & Transformation**  
   - Clean and structure data using **AWS Glue**.  
